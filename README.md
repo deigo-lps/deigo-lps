@@ -1,7 +1,7 @@
 ### Aoba bão
 - **Ciência da Computação IBILCE/UNESP**
 - **Front-end Dev [Nerdweb](https://nerdweb.com.br/)**
-- **Presidente [ECCJR](https://eccjr.com.br)**
+- **Dev [ECCJR](https://eccjr.com.br)**
 
  <div>
   <a href="https://github.com/deigo-lps">
