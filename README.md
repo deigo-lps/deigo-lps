@@ -1,6 +1,5 @@
 ### Aoba bão
 - **Ciência da Computação IBILCE/UNESP**
-- **Front-end Dev [Nerdweb](https://nerdweb.com.br/)**
 - **Dev [ECCJR](https://eccjr.com.br)**
 
  <div>
